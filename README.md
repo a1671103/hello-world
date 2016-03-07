@@ -1,2 +1,5 @@
 # hello-world
-a practical repository for github study
+
+Hi Humans!
+
+This is a practical test for GitHub study for supporting the study of M.CI project
